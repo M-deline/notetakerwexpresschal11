@@ -1,1 +1,5 @@
-# Note Taker Starter Code
+# Note Taker 
+## Description
+## Technologies Used
+## Installation
+## Credits
